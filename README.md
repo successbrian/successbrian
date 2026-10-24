@@ -15,6 +15,7 @@ not.
 - **Live operations dashboard:** https://successbrianvps.com/pm/
   — the system's own public window: work queues, decisions, and
   system health, updated by the machines themselves.
+- **Blog:** [successbrianhub.substack.com](https://successbrianhub.substack.com) — I write about building and operating this ecosystem: what works, what breaks, and what it teaches.
 - **Flagship repo:** [successbrian-os](https://github.com/successbrian/successbrian-os)
   — 300+ commits of deterministic Python, PostgreSQL, and local LLM
   inference. No framework-of-the-week; the boring, reliable parts are
